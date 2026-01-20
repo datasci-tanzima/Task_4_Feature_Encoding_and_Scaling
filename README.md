@@ -11,6 +11,4 @@ Work:
 
 Files:
 - Task_4_Feature_Encoding_and_Scaling.ipynb
-- adult_income_preprocessed.csv
-
-Author: Shona
+- adult.csv
